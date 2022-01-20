@@ -1,0 +1,12 @@
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\bin\Debug\netcoreapp3.1\BookStore.CustomException.deps.json
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\bin\Debug\netcoreapp3.1\BookStore.CustomException.runtimeconfig.json
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\bin\Debug\netcoreapp3.1\BookStore.CustomException.runtimeconfig.dev.json
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\bin\Debug\netcoreapp3.1\BookStore.CustomException.dll
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\bin\Debug\netcoreapp3.1\BookStore.CustomException.pdb
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.csprojAssemblyReference.cache
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.AssemblyInfo.cs
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.dll
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.pdb
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.CustomException\obj\Debug\netcoreapp3.1\BookStore.CustomException.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.DataAccessLayer.deps.json
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.DataAccessLayer.runtimeconfig.json
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.DataAccessLayer.dll
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.DataAccessLayer.pdb
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.CustomException.dll
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.Entity.dll
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.CustomException.pdb
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\bin\Debug\netcoreapp3.1\BookStore.Entity.pdb
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.csproj.CopyComplete
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.dll
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.pdb
+C:\Users\Personal\source\repos\BookStoreManagementSystem\BookStore.DataAccessLayer\obj\Debug\netcoreapp3.1\BookStore.DataAccessLayer.genruntimeconfig.cache

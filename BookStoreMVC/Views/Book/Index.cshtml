@@ -1,0 +1,46 @@
+﻿@model IEnumerable<BookStore.Entity.Book>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<h1>Books</h1>
+<hr />
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>Book ID</th>
+        <th>Name</th>
+        <th>Author</th>
+        <th>Publisher</th>
+        <th>Cost</th>
+        <th>Available For</th>
+        <th>Quantity</th>
+        <th></th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.BookId) </td>
+            <td>@Html.DisplayFor(modelItem => item.BookName) </td>
+            <td>@Html.DisplayFor(modelItem => item.Author) </td>
+            <td>@Html.DisplayFor(modelItem => item.Publisher) </td>
+            <td>@Html.DisplayFor(modelItem => item.Cost) </td>
+            <td>@Html.DisplayFor(modelItem => item.AvailableFor) </td>
+            <td>@Html.DisplayFor(modelItem => item.Quantity) </td>
+            <td>
+                <a href="@Url.Action("Create","Book", new {id = item.BookId })">Update</a>
+                <a href="@Url.Action("DeleteBook","Book", new {id = item.BookId })">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+<div>
+
+    @Html.ActionLink("Add Book", "Create", "Book")
+    @*<a href="@Url.Action("Create","Book", new {id = 0 })">Add book</a>*@
+</div>
+<div>
+    @Html.ActionLink("Back To Home", "Index", "AdminHome")
+</div>
+

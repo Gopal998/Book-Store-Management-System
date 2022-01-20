@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.PresentationLayer", "BookStoreManagementSystem\BookStore.PresentationLayer.csproj", "{B12DE26C-A640-4A1D-B105-81A3ABB7268A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.DataAccessLayer", "BookStore.DataAccessLayer\BookStore.DataAccessLayer.csproj", "{A3F0AD77-3F0C-4593-866D-30FDB02FF483}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.BusinessLogicLayer", "BookStore.BusinessLogicLayer\BookStore.BusinessLogicLayer.csproj", "{55145A11-6009-4ADE-8808-2BEB147EAADC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.Entity", "BookStore.Entity\BookStore.Entity.csproj", "{57F8C5C8-B0F7-4DFB-ADAB-544D9F1213AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.CustomException", "BookStore.CustomException\BookStore.CustomException.csproj", "{32C81BD9-7660-4800-A8BE-3BC307777341}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestForBookStoreManagementSystem", "UnitTestForBookStoreManagementSystem\UnitTestForBookStoreManagementSystem.csproj", "{3328DED7-04C4-4C62-A8CA-321B71F5A231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreMVC", "BookStoreMVC\BookStoreMVC.csproj", "{9C78EB30-3CDE-4AB9-B762-0F0246545524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12DE26C-A640-4A1D-B105-81A3ABB7268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12DE26C-A640-4A1D-B105-81A3ABB7268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12DE26C-A640-4A1D-B105-81A3ABB7268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12DE26C-A640-4A1D-B105-81A3ABB7268A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F0AD77-3F0C-4593-866D-30FDB02FF483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F0AD77-3F0C-4593-866D-30FDB02FF483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F0AD77-3F0C-4593-866D-30FDB02FF483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F0AD77-3F0C-4593-866D-30FDB02FF483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55145A11-6009-4ADE-8808-2BEB147EAADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55145A11-6009-4ADE-8808-2BEB147EAADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55145A11-6009-4ADE-8808-2BEB147EAADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55145A11-6009-4ADE-8808-2BEB147EAADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F8C5C8-B0F7-4DFB-ADAB-544D9F1213AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F8C5C8-B0F7-4DFB-ADAB-544D9F1213AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F8C5C8-B0F7-4DFB-ADAB-544D9F1213AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F8C5C8-B0F7-4DFB-ADAB-544D9F1213AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C81BD9-7660-4800-A8BE-3BC307777341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C81BD9-7660-4800-A8BE-3BC307777341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C81BD9-7660-4800-A8BE-3BC307777341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C81BD9-7660-4800-A8BE-3BC307777341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3328DED7-04C4-4C62-A8CA-321B71F5A231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3328DED7-04C4-4C62-A8CA-321B71F5A231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3328DED7-04C4-4C62-A8CA-321B71F5A231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3328DED7-04C4-4C62-A8CA-321B71F5A231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C78EB30-3CDE-4AB9-B762-0F0246545524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C78EB30-3CDE-4AB9-B762-0F0246545524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C78EB30-3CDE-4AB9-B762-0F0246545524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C78EB30-3CDE-4AB9-B762-0F0246545524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1018306D-C8B9-4BA7-97F0-B979DC5CCAAB}
+	EndGlobalSection
+EndGlobal
